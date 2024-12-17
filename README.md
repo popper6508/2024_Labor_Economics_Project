@@ -1,6 +1,6 @@
 2024  Labor Economics Final Project
 -----
-- Topic: Work Hour Change after ChatGPT  
+- Topic: Work Hour Change after ChatGPT by AI exposure level  
 - Data: Current Population Survey, Webb AI Index  
 - Method: Continuous treatment effect
 
